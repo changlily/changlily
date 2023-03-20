@@ -1,7 +1,7 @@
 [![An image of @changlily's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/changlily)](https://holopin.io/@changlily)
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Adrian%20S%20Wijaya;Web%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=4078c0&vCenter=true&size=22&pause=1000"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Chang%20Lily;Web%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=4078c0&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <h2 align="center">
